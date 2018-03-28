@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/Rosswell/UpSet-Repo/master/HD_pathways.csv",
+	"name": "pathway analysis",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "gene id" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 1553 }
+	]
+}
