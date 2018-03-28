@@ -6,10 +6,10 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" },
-		{ "type": "float", "index": 7, "name": "Cerebellum_values" },
-		{ "type": "float", "index": 8, "name": "Cortex_values" },
-		{ "type": "float", "index": 10, "name": "Hippocampus_values" },
-		{ "type": "float", "index": 12, "name": "Striatum_values" }
+		{ "type": "float", "index": 7, "name": "Cerebellum" },
+		{ "type": "float", "index": 8, "name": "Cortex" },
+		{ "type": "float", "index": 10, "name": "Hippocampus" },
+		{ "type": "float", "index": 12, "name": "Striatum" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 6 }
